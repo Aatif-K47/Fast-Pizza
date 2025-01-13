@@ -9,7 +9,7 @@ function getPosition() {
 
 // *RTK
 const initialState = {
-  username: "Aatif",
+  username: "",
   status: "idle",
   position: {},
   address: "",
